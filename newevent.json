@@ -1,6 +1,6 @@
 {
   "specversion": "1.0",
-  "type": "sh.keptn.event.demo.hello.triggered",
+  "type": "sh.keptn.event.demo.hello.triggeredtest",
   "source": "helloworld demo",
   "datacontenttype": "application/json",
   "data": {
